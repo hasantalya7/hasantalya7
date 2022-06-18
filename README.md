@@ -1,0 +1,5 @@
+- 👋 Hi,
+- 👀 I’m interested in Communications.
+- 🌱 I'm doing research on information and coding theory.
+- 💞️ I’m looking to collaborate.
+- 📫 http://hasantalya7.github.io
